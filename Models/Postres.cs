@@ -16,7 +16,7 @@ public class Postres: Producto {
     public override void MostrarDetalles(){
 
         string llevaAzucar = ConAzucar ? "Si" : "No";
-        Console.WriteLine($"Bebida: {Nombre}, {Precio:C} - {llevaAzucar} (Calorías {Calorias})");
+        Console.WriteLine($"Postre: {Nombre}, {Precio:C} - {llevaAzucar} (Calorías {Calorias})");
 
     }
 

@@ -12,3 +12,4 @@ D:\Nicolás\Desarrollo web en Entorno Servidor\Restaurante\obj\Debug\net8.0\refi
 D:\Nicolás\Desarrollo web en Entorno Servidor\Restaurante\obj\Debug\net8.0\Restaurante.pdb
 D:\Nicolás\Desarrollo web en Entorno Servidor\Restaurante\obj\Debug\net8.0\Restaurante.genruntimeconfig.cache
 D:\Nicolás\Desarrollo web en Entorno Servidor\Restaurante\obj\Debug\net8.0\ref\Restaurante.dll
+D:\Nicolás\Desarrollo web en Entorno Servidor\Restaurante\obj\Debug\net8.0\Restaurante.sourcelink.json
