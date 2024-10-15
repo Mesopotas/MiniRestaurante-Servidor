@@ -1,0 +1,14 @@
+D:\Nicolás\Desarrollo web en Entorno Servidor\Restaurante\bin\Debug\net8.0\Restaurante.exe
+D:\Nicolás\Desarrollo web en Entorno Servidor\Restaurante\bin\Debug\net8.0\Restaurante.deps.json
+D:\Nicolás\Desarrollo web en Entorno Servidor\Restaurante\bin\Debug\net8.0\Restaurante.runtimeconfig.json
+D:\Nicolás\Desarrollo web en Entorno Servidor\Restaurante\bin\Debug\net8.0\Restaurante.dll
+D:\Nicolás\Desarrollo web en Entorno Servidor\Restaurante\bin\Debug\net8.0\Restaurante.pdb
+D:\Nicolás\Desarrollo web en Entorno Servidor\Restaurante\obj\Debug\net8.0\Restaurante.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nicolás\Desarrollo web en Entorno Servidor\Restaurante\obj\Debug\net8.0\Restaurante.AssemblyInfoInputs.cache
+D:\Nicolás\Desarrollo web en Entorno Servidor\Restaurante\obj\Debug\net8.0\Restaurante.AssemblyInfo.cs
+D:\Nicolás\Desarrollo web en Entorno Servidor\Restaurante\obj\Debug\net8.0\Restaurante.csproj.CoreCompileInputs.cache
+D:\Nicolás\Desarrollo web en Entorno Servidor\Restaurante\obj\Debug\net8.0\Restaurante.dll
+D:\Nicolás\Desarrollo web en Entorno Servidor\Restaurante\obj\Debug\net8.0\refint\Restaurante.dll
+D:\Nicolás\Desarrollo web en Entorno Servidor\Restaurante\obj\Debug\net8.0\Restaurante.pdb
+D:\Nicolás\Desarrollo web en Entorno Servidor\Restaurante\obj\Debug\net8.0\Restaurante.genruntimeconfig.cache
+D:\Nicolás\Desarrollo web en Entorno Servidor\Restaurante\obj\Debug\net8.0\ref\Restaurante.dll
